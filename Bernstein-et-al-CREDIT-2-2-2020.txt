@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Robert Bernstein</Author>
+  <LastAuthor>Robert Bernstein</LastAuthor>
+  <Created>2020-01-22T20:14:46Z</Created>
+  <LastSaved>2020-02-02T20:01:13Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>16740</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>460</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="15" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="92"/>
+   <Column ss:AutoFitWidth="0" ss:Width="88"/>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">Bernstein</Data></Cell>
+    <Cell><Data ss:Type="String">Macy</Data></Cell>
+    <Cell><Data ss:Type="String">Cameron</Data></Cell>
+    <Cell><Data ss:Type="String">Williams-Ceci</Data></Cell>
+    <Cell><Data ss:Type="String">W.M. Williams</Data></Cell>
+    <Cell><Data ss:Type="String">S.J. Ceci</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">conceptualization</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">data curation</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">formal analysis</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">funding acquisition</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">investigation</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">methodology</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Project administration</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">resources</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">software</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">supervision</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">validation</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">visualization</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">writing-original draft</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">writing-review and editing</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Zoom>219</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>14</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
