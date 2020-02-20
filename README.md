@@ -5,7 +5,7 @@ This archive contains the information necessary to reconstruct our analysis (pas
 Data: 
    1) scienceMasterSpreadsheet.xlsx are the results. You will see some internal variable columns we may use for future
    analyses. 
-   2) annotated_v6_drives.xlsx is the same but I have added a column for achievement+power-familyRelated that is the 
+   2) annotated_STATA_drives.xlsx is the same but I have added a column for achievement+power-familyRelated that is the 
    drives variable we use in the analysis.
    3) extraCategoriesDict.xlsx is a LIWC dictionary made from standout, grindstone, agentic, and communal from the
    literature.
