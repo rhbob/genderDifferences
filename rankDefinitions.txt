@@ -1,0 +1,68 @@
+
+RANK 5
+==============
+_titled_ professor                          170
+distinguished professor                     48 
+distinguished professor emeritus            3  
+distinguished professor emerita             1  
+au professor - _titled_ professor           1  
+distinguished research professor            1  
+distinguished  professor                    1  
+
+
+RANK 4
+===============
+professor                                   456
+research professor                          12 
+professor emeritus                          12 
+professor emeritas                          1  
+foundation professor                        3  
+professor emerita                           2  
+uk reader - professor                       1  
+
+
+RANK 3
+===============
+associate professor                         210
+uk senior lecturer - associate professor    1  
+au senior lecturer - associate professor    1  
+senior lecturer                             2  
+
+
+RANK 2
+==============
+assistant professor                         85 
+uk lecturer - assistant professor           2  
+
+RANK 1
+==============
+research associate                          1  
+research fellow                             1  
+adjunct professor                           1  
+adjunct associate professor                 1  
+assistant adjunct professor                 1  
+
+
+RANK 0
+================
+clinic coordinator                          1  
+scientific programmer                       1  
+senior journalist                           1  
+instructional designer                      1  
+
+
+UNKNOWN RANK
+=================
+clinical co-director                        1  
+investigator nih                            1  
+clinic co-director                          1  
+senior scientist                            2  
+senior research scientist                   3  
+senior economist                            1  
+section chief nimh                          1  
+research director                           3  
+director                                    2  
+medical director                            1  
+executive director                          2  
+vice president                              1  
+research scientist                          1  
