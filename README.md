@@ -15,7 +15,7 @@ Code:
    1) annotated_v5_LIWCanalysisForPaper.cxx is a ROOT macro for the LIWC dictionaries.
    2) rhbDictRank.cxx is the same for the extraCategory words, rank, and F/M writer ratios.
    
-   Both of these make plots that were cleaned up in Illustrator.  You should put whatever you name Data 1) here. Data 2) has a different input statement, but the macros calculate the variables we published.
+   Both of these make plots that were cleaned up in Illustrator.  You should put whatever you name Data 1) here.
    
    3) annotated_v5_LIWCanalysisMedianForPaper.cxx is a ROOT macro for the LIWC dictionaries but plots our medians.
    4) rhbDictRankMedian.cxx is the same for the extraCategory words, rank, and F/M writer ratios but plots our medians.
