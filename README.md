@@ -29,6 +29,7 @@ Code:
    The ones we did use were checked by RHB after looking at all letters, 
    but then the results were blind -- we got what we got without further change.  The LIWC summary variables have 
    particularly tricky problems, and Jamie Pennebaker explained the private algorithms and we decided not to use them.  
+   
    The raw letter data are not available for reasons of confidentiality, especially in EPP. 
    
    If you have questions contact rhbob@fnal.gov.
