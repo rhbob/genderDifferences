@@ -25,8 +25,8 @@ Code:
    5) ttestsForPaper.do is a typical STATA file.
    
    We supplied all the LIWC variable outputs.  We do not think you should plot variables we did not publish without much 
-   thought.Many of these LIWC categories have words associated with subject matter or are otherwise problematic. 
-   The ones we did use were checked by RHB and the drives formula was chosen after looking at all letters, 
+   thought. Many of these LIWC categories have words associated with subject matter or are otherwise problematic. 
+   The ones we did use were checked by RHB after looking at all letters, 
    but then the results were blind -- we got what we got without further change.  The LIWC summary variables have 
    particularly tricky problems, and Jamie Pennebaker explained the private algorithms and we decided not to use them.  
    The raw letter data are not available for reasons of confidentiality, especially in EPP. 
