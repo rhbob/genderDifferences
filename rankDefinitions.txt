@@ -1,0 +1,68 @@
+
+RANK 5
+==============
+_titled_ professor                          
+distinguished professor                     
+distinguished professor emeritus              
+distinguished professor emerita               
+au professor - _titled_ professor             
+distinguished research professor              
+distinguished  professor                      
+
+
+RANK 4
+===============
+professor                                   
+research professor                          
+professor emeritus                           
+professor emeritas                            
+foundation professor                          
+professor emerita                             
+uk reader - professor                         
+
+
+RANK 3
+===============
+associate professor                         
+uk senior lecturer - associate professor      
+au senior lecturer - associate professor      
+senior lecturer                               
+
+
+RANK 2
+==============
+assistant professor                          
+uk lecturer - assistant professor             
+
+RANK 1
+==============
+research associate                           
+research fellow                               
+adjunct professor                             
+adjunct associate professor                   
+assistant adjunct professor                   
+
+
+RANK 0
+================
+clinic coordinator                            
+scientific programmer                         
+senior journalist                             
+instructional designer                        
+
+
+UNKNOWN RANK
+=================
+clinical co-director                         
+investigator nih                              
+clinic co-director                            
+senior scientist                              
+senior research scientist                     
+senior economist                              
+section chief nimh                            
+research director                             
+director                                      
+medical director                              
+executive director                            
+vice president                                
+research scientist                            
