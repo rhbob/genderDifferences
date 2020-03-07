@@ -1,0 +1,389 @@
+%					
+1	Standout				
+2	Ability				
+3	Grindstone				
+4	Teaching				
+5	Research				
+6	Agentic				
+7	Communal				
+8	internal1				
+9	internal2				
+10	internal3				
+11	internal4				
+12	internal5				
+13	internal6				
+14	internal7				
+15	internal8				
+%					
+ability	2				
+able	2				
+accept*	7				
+achieve*	1	5	6	10	
+active	6				
+adept*	2				
+adroit*	2				
+advis*	4				
+affectionate	7				
+aggress*	6				
+agreeable*	7				
+amazing	1				
+ambitious	6	10			
+ambition	6	10			
+analytical	2				
+analyz*	2				
+anomal*	5				
+approachable	7				
+aptitude	2				
+assertive	6				
+assiduous	3				
+assist*	7				
+assurance	6				
+award*	1	5			
+best	1				
+blunt	6				
+bold	6				
+brain*	2				
+bright*	2				
+brilliant*	2				
+build	6				
+busy	3				
+candid	6				
+capab*	2				
+capacity	2				
+care*	7				
+careful	3				
+caring	7				
+challeng*	1				
+characterized	5				
+citizen	4	7			
+class	4				
+clever*	2				
+collabor*	7				
+colleague*	4	7			
+collegial	7				
+command	2	6			
+communal	7				
+communicate*	4				
+compare*	12	14			
+compassion*	7				
+compelling	1				
+competent*	2				
+competitive	1	6			
+complete package	1				
+concern* 	12	13			
+confident	6				
+connect*	7				
+conscientious	3				
+considerate	7				
+construct*	6				
+contribut*	5				
+control*	6				
+cooperate*	7				
+counsel*	4				
+course*	4				
+create*	2	6			
+creative*	2	6			
+creativi*	2	6			
+daring	6				
+data	5				
+dedicate*	3	10			
+decisive	1	10			
+depend*	3				
+develop*	5				
+devise	6				
+diligen*	3				
+direct*	6				
+disciplined	3				
+discover*	5				
+dominant	6				
+dynamic	6				
+easy going	7				
+educat*	4				
+effective	3				
+effort*	3				
+emotion*	7				
+enable	6				
+enthusiastic*	2	6	10		
+essential	1				
+estimate*	5				
+evidenc*	5				
+excel*	1				
+exceptional	1	10	12		
+experiment*	5				
+expert*	2				
+extremely	1	10			
+extraordinar*	1				
+fabulous	1				
+feeling*	7				
+finding*	5				
+first-rate	1				
+full package	1				
+flair	2				
+fond	7				
+force*	6				
+forthright	6				
+frank	6				
+friendly	7				
+fund	5				
+funding	5				
+funded	5				
+fundamental	1				
+genial	7				
+genius	2				
+gentle	7				
+gift*	2				
+grant*	5				
+groundbreaking	6				
+group	7				
+hard-working	3				
+hardworking	3				
+hardest working	3	6			
+hard working	3	6			
+hard worker	3	6			
+helpful	7				
+highest possible	1				
+high quality	1				
+important*	1				
+impress*	1	10			
+independent*	6				
+industrious	3				
+influence*	6				
+inherent*	2				
+initiat*	6				
+innate	2				
+innovat*	1				
+insight*	2				
+instinct*	2				
+instruct	4				
+intell*	2				
+intellectual	6				
+interpersonal*	7				
+intima*	7				
+journal*	5				
+kind	7				
+knack	2				
+lead*	6				
+leader of the field	1				
+lectur*	4				
+led	1	6	10		
+likable	7				
+likeable	7				
+love	7	15			
+lovely	15				
+loves	15				
+make our short list	1	10			
+magnificent	1				
+manage*	6				
+manuscript*	5				
+master*	1	6			
+matur*	2				
+measured	5				
+mentor	4				
+method*	5				
+methodical	3				
+meticulous	3				
+most	1				
+multitask	3				
+multi-task	3				
+natural*	1	2			
+noetic	6				
+novel	1	10			
+nurtur*	7				
+nurturing	7				
+observation	5				
+organiz*	3				
+original	1	10			
+originat*	6				
+outgoing	7				
+outspoken	6				
+outreach	4	7			
+outstanding*	1				
+passion*	1	10			
+passive	7				
+perserver*	6				
+persever*	6				
+persist*	3				
+pioneer*	6				
+phenomenal	1	2	5	10	
+pleasant	7				
+pleasure to work with	7	10			
+power	6				
+present*	4				
+prestig*	1	10			
+produce*	6				
+productive	2	6	10		
+proficient*	2				
+project	5				
+promis*	2	12			
+propensity	2				
+proved	5				
+publication*	5				
+publish*	5				
+qualified	2				
+rapport	4				
+rational	6				
+refer*	7				
+relate*	7				
+reliab*	3				
+remarkable	1				
+research*	5				
+responsib*	3				
+responsive	7				
+result*	5				
+scholarship	5				
+scien*	5				
+sensitive	7				
+service	4				
+significant*	1	5	10		
+skill*	2				
+smart*	2				
+solidarity	7				
+solv*	2	5			
+spearhead*	6				
+star	1	10			
+start*	6				
+strength	2	6			
+strong*	1				
+student*	4				
+studies	5				
+study	5				
+submissive	7				
+substantial	1				
+success	6				
+suggest*	6				
+superb	1				
+supervis*	4				
+support*	7				
+supreme*	1				
+surpass	1	6	10		
+sure	6				
+syllabus	4				
+sympath*	7				
+sympathetic	7				
+tactful	7				
+tackle	6	10			
+talent*	2				
+teach	4				
+team	7				
+team player	7				
+tender	7				
+tentative*	7				
+terrific*	1				
+test*	5	6			
+theor*	5				
+think*	2				
+thorough*	3				
+tolera*	7				
+top 10	1				
+top 2	1				
+top 5	1				
+tour de force	1				
+train*	4				
+transforma*	1	10			
+trust*	3				
+understand*	5				
+union	7				
+unique	1				
+unmatched	1				
+unparalleled	1				
+vita*	5				
+warm	7				
+without reservation	10				
+wonderful	1				
+work*	3				
+world class	1				
+worry	7				
+working group	10				
+coordinator	10				
+convener	10				
+convenor	10				
+Project Manager	10				
+Blois	10				
+CERN Council	10				
+La Thuile 	10				
+Moriond	10				
+ICHEP	10				
+IHCEP	10				
+NUFACT	10				
+NNN	10				
+Neutrino 2016	10				
+SUSY 2014	10				
+SUSY 2015	10				
+SUSY 2016	10				
+SUSY 2017	10				
+WIN 2015	10				
+WIN 2017	10				
+BOOST 2017	10				
+BOOST 2015	10				
+Marie Curie	10				
+Fermilab Users'	10				
+Fermilab User's	10				
+Executive Committee	10				
+pleasure to work with	7	10			
+Physical Review D	10				
+PRD	10				
+Physics Review Letters	10				
+PRL	10				
+single-author	1	10			
+single author	1	10			
+Wine & Cheese	10				
+Wine&Cheese	10				
+Wine And Cheese	10				
+WineAndChees	10				
+upper 5	1	10	12		
+upper 10	1	10	12		
+upper tier	1	10	12		
+first tier	1	10	12		
+top 2	1	10	12		
+top 5 	1	10	12		
+top 10	1	10	12		
+compares well with	1	10	12		
+compares favorably with	1	10	12		
+top tier	1	10	12		
+would hire	1	10	12		
+similar level	14				
+stage in career	14				
+haven't worked with	13				
+have not worked with	13				
+have not had a chance	13				
+can't evaluate	13				
+cannot evaluate	13				
+will let others	13				
+cannot comment	13				
+can't comment	13				
+others can comment	13				
+let others comment	13				
+best I've worked with	1	10	11	12	
+best I have worked with	1	10	11	12	
+one of the best I have worked with	1	10	11	12	
+one of the two best I have worked with	1	10	11	12	
+top 2	1	10	11	12	
+top 5 students	1	10	11	12	
+top 5	1	10	11	12	
+top 10	1	10	11	12	
+top 15	1	10	11	12	
+one of the top	1	10	11	12	
+top few students	1	10	11	12	
+the best student	1	10	11	12	
+top student	1	10	11	12	
+previous Wilson Fellow*	1	10	12		
+former Wilson Fellow*	1	10	12		
+trailblazer	1	10	11	12	
+role model	1	10	11	12	
+strongest recommendation	1	10	11	12	
+strongest possible recommendation	1	10	11	12	
+best postdoctoral fellow	1	10	11	12	
+in 97.5/100	1	10	11	12	
+not at the top	13				
+without any reservation	1	10	11	12	
+head and shoulders above	1	10	11	12	
+academic star	1	10	11	12	
+rising star	1	10	11	12	
+superstar	1	10	11	14	
+star of the field	1	10	11	12	
+future leader of the field	1	10	11	12	
+among the top	1	10	11	12	
+would be happy to hire	1	12	11	14	
+shortlist	1	10	11	12	14
+top 25	13				
+top 35	13				
