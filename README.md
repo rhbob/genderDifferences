@@ -1,5 +1,5 @@
 # genderDifferences
-supplemental materials for Science Bernstein et al.
+supplemental materials for 
 This archive contains the information necessary to reconstruct our analysis (past identifying information).
 
 Data: 
