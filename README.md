@@ -4,7 +4,7 @@ This archive contains the information necessary to reconstruct our analysis (pas
 
 Data: 
    1) scienceMasterSpreadsheet.xlsx are the results. You will see some internal variable columns we may use for future
-   analyses.
+   analyses. annotated_v6_drives is the same information in a form that ttest
    2) extraCategoriesDict.xlsx is a LIWC dictionary made from standout, grindstone, agentic, and communal from the
    literature.
    3) physicsDepartments.xlsx and 
@@ -22,7 +22,7 @@ Code:
    
    Not all variables were changed to medians, just ones we used.  The extension is straightforward.
    
-   5) ttestsForPaper.do is a typical STATA file.
+   5) ttestsForPaper.do is a typical STATA file without bootstraps; 
    
    We supplied all the LIWC variable outputs.  We do not think you should plot variables we did not publish without much 
    thought. Many of these LIWC categories have words associated with subject matter or are otherwise problematic. 
